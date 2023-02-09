@@ -1,4 +1,5 @@
 --
+-- Comment for the lab
 -- PostgreSQL database dump
 --
 
